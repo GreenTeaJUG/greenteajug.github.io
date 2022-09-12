@@ -1,0 +1,16 @@
+Truffle and Graal: Building fast interpreters on top of the JVM
+
+Presentations and Papers about Graal:
+https://wiki.openjdk.java.net/display/Graal/Publications+and+Presentations
+
+Most of my illustrations came from 
+http://lafo.ssw.uni-linz.ac.at/papers/2014_CGO_OneVMToRuleThemAll.pdf.
+
+Getting started with the Code:
+https://wiki.openjdk.java.net/display/Graal/Instructions
+
+Compiler and JVM Research at JKU:
+http://ssw.jku.at/Research/Projects/JVM/
+
+
+Feel free to contact with me on 阿里往往 if you have further questions. My 花名 is 曼努.
