@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Green Tea Java User Group is from China
 
 ### More Information
 
