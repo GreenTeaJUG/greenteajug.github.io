@@ -8,8 +8,11 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Green Tea Java User Group
+绿茶Java用户组
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mojianhao@greenteajug.cn](mailto:mojianhao@greenteajug.cn)
+
+WeChat:mo_jianhao
