@@ -2,7 +2,7 @@
 layout: post
 title: java8 API (一) （String、正则、IO、集合）
 date: 2016-08-09
-tags: ["@有光","collection","java8","lambda","文章"]
+tags: ["2016","@有光","collection","java8","lambda","article"]
 ---
 
 # 前言

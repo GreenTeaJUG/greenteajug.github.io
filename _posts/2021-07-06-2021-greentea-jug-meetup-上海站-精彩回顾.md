@@ -2,7 +2,7 @@
 layout: post
 title: 2021 GreenTea JUG Meetup 上海站 精彩回顾
 date: 2021-07-06
-tags: ["活动","活动ppt"]
+tags: ["2021","article","活动","活动ppt"]
 ---
 
 <!-- wp:paragraph -->
@@ -35,8 +35,7 @@ GreenTea JUG（[http://greenteajug.cn/](http://greenteajug.cn/)）是中国最�
 
 <!-- /wp:paragraph -->
 
-<!-- wp:file {"id":825,"href":"http://greenteajug.cn/wp-content/uploads/2021/07/ZGC_in_dragonwell.pdf"} -->
-<div class="wp-block-file">[ZGC_in_dragonwell](http://greenteajug.cn/wp-content/uploads/2021/07/ZGC_in_dragonwell.pdf)[下载](http://greenteajug.cn/wp-content/uploads/2021/07/ZGC_in_dragonwell.pdf)</div>
+[下载](http://greenteajug.github.io/images/ZGC_in_dragonwell.pdf)
 <!-- /wp:file -->
 
 <!-- wp:paragraph -->
@@ -51,9 +50,7 @@ GreenTea JUG（[http://greenteajug.cn/](http://greenteajug.cn/)）是中国最�
 
 <!-- /wp:paragraph -->
 
-<!-- wp:file {"id":826,"href":"http://greenteajug.cn/wp-content/uploads/2021/07/WAMR-thread-management.pptx"} -->
-<div class="wp-block-file">[WAMR thread management](http://greenteajug.cn/wp-content/uploads/2021/07/WAMR-thread-management.pptx)[下载](http://greenteajug.cn/wp-content/uploads/2021/07/WAMR-thread-management.pptx)</div>
-<!-- /wp:file -->
+[下载](http://greenteajug.github.io/images/WAMR-thread-management.pptx)
 
 <!-- wp:paragraph -->
 
@@ -67,9 +64,7 @@ GreenTea JUG（[http://greenteajug.cn/](http://greenteajug.cn/)）是中国最�
 
 <!-- /wp:paragraph -->
 
-<!-- wp:file {"id":827,"href":"http://greenteajug.cn/wp-content/uploads/2021/07/异构体系下的Java性能分析.pdf"} -->
-<div class="wp-block-file">[异构体系下的Java性能分析](http://greenteajug.cn/wp-content/uploads/2021/07/异构体系下的Java性能分析.pdf)[下载](http://greenteajug.cn/wp-content/uploads/2021/07/异构体系下的Java性能分析.pdf)</div>
-<!-- /wp:file -->
+[下载](http://greenteajug.github.io/images/异构体系下的Java性能分析.pdf)
 
 <!-- wp:paragraph -->
 
@@ -83,6 +78,4 @@ GreenTea JUG（[http://greenteajug.cn/](http://greenteajug.cn/)）是中国最�
 
 <!-- /wp:paragraph -->
 
-<!-- wp:file {"id":828,"href":"http://greenteajug.cn/wp-content/uploads/2021/07/2021_still_learning_Java_.pdf"} -->
-<div class="wp-block-file">[2021_still_learning_Java_](http://greenteajug.cn/wp-content/uploads/2021/07/2021_still_learning_Java_.pdf)[下载](http://greenteajug.cn/wp-content/uploads/2021/07/2021_still_learning_Java_.pdf)</div>
-<!-- /wp:file -->
+[下载](http://greenteajug.github.io/images/2021_still_learning_Java_.pdf)

@@ -2,8 +2,9 @@
 layout: post
 title: HotCode2，Java热部署技术
 date: 2014-09-23
-tags: ["千臂","文章","活动ppt"]
+tags: ["2014","千臂","article","活动ppt"]
 ---
 
 作者：千臂
-[pdfjs-viewer url="http://greenteajug.cn/wp-content/uploads/2015/05/HotCode2原理与使用.pdf"]
+
+<embed src="http://greenteajug.github.io/images/HotCode2原理与使用.pdf" type="application/pdf" height="720" width="100%" />

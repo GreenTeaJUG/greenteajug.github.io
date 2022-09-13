@@ -5,6 +5,6 @@ date: 2019-11-18
 tags: ["2019","杭州","活动"]
 ---
 
-<!-- wp:image -->
-<figure class="wp-block-image">![EDM-4_杭州.png](30173598591314374.jpeg)<figcaption>报名： [https://www.huodongxing.com/event/7517929905411](https://www.huodongxing.com/event/7517929905411) </figcaption></figure>
-<!-- /wp:image -->
+报名： [https://www.huodongxing.com/event/7517929905411](https://www.huodongxing.com/event/7517929905411)
+
+![_config.yml](http://cdn.huodongxing.com/file/ue/20180823/11C50A01B5A4EF343F7BA234079D7B93AC/30173598591314374.jpeg)

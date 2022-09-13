@@ -2,7 +2,7 @@
 layout: post
 title: GreenTeaJUG 活动 第26期 北京
 date: 2017-04-12
-tags: ["2017","JeffZhang","KylinSoong","北京","张诚","杨晓峰","活动"]
+tags: ["2017","article","JeffZhang","KylinSoong","北京","张诚","杨晓峰","活动"]
 ---
 
 &nbsp;
@@ -23,7 +23,7 @@ tags: ["2017","JeffZhang","KylinSoong","北京","张诚","杨晓峰","活动"]
 - 分析设计和实现的部分细节
 - 典型用例和诊断分析
 2. 概要介绍其他虚拟机、类库等方面的新特性
-_([演示稿](http://greenteajug.cn/wp-content/uploads/2017/04/JDK_9_New_Features_JUG20170423a.pdf) 下方预览PDF)_
+_([演示稿](http://greenteajug.github.io/images/JDK_9_New_Features_JUG20170423a.pdf) 下方预览PDF)_
 
 二，
 时间：下午3:30 - 4:00
@@ -33,7 +33,7 @@ _([演示稿](http://greenteajug.cn/wp-content/uploads/2017/04/JDK_9_New_Feature
 1. MicroProfile规范子集介绍及产生背景
 2. 目前状态，Feature backlog， release schedule等。
 3. Wildfly-Swarm中的实现技术分析
-_([演示稿](http://greenteajug.cn/wp-content/uploads/2017/04/MicroProfile.pdf)下方预览PDF)_
+_([演示稿](http://greenteajug.github.io/images/MicroProfile.pdf)下方预览PDF)_
 
 三，
 时间：下午4:10 - 4:50
@@ -54,7 +54,7 @@ _([演示稿](http://greenteajug.cn/wp-content/uploads/2017/04/MicroProfile.pdf)
 - Undertow 2
 4 可选
 - Netty实现HTTP/2技术分析
-_([演示稿 ](http://greenteajug.cn/wp-content/uploads/2017/04/http2_servlet4_jug.pdf)下方预览PDF)_
+_([演示稿 ](http://greenteajug.github.io/images/http2_servlet4_jug.pdf)下方预览PDF)_
 
 四，交流讨论 10-30分钟
 
@@ -71,10 +71,10 @@ Java使用年限：xx年
 说明：因为受场地限制，本次活动可以容纳25人左右，先报名并收到确认邮件即为报名成功，谢谢！
 
 一 Java 9新特性
-[pdfjs-viewer url="http://greenteajug.cn/wp-content/uploads/2017/04/JDK_9_New_Features_JUG20170423a.pdf"]
+<embed src="http://greenteajug.github.io/images/JDK_9_New_Features_JUG20170423a.pdf" type="application/pdf" height="720" width="100%" />
 
 二 JavaEE MicroProfile
-[pdfjs-viewer url="http://greenteajug.cn/wp-content/uploads/2017/04/MicroProfile.pdf"]
+<embed src="http://greenteajug.github.io/images/MicroProfile.pdf" type="application/pdf" height="720" width="100%" />
 
 三 HTTP/2和Servlet4技术分析
-[pdfjs-viewer url="http://greenteajug.cn/wp-content/uploads/2017/04/http2_servlet4_jug.pdf"]
+<embed src="http://greenteajug.github.io/images/http2_servlet4_jug.pdf" type="application/pdf" height="720" width="100%" />

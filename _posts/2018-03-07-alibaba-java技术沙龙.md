@@ -21,4 +21,4 @@ tags: ["2018","杭州","活动"]
 
 报名方式：<span class="s2">发送"姓名，手机号，邮箱，公司，</span><span class="s3">Java</span><span class="s2">使用年限"到</span><span class="s3"> alijvm@greenteajug.cn</span>
 
-[pdfjs-viewer url="http%3A%2F%2Fgreenteajug.cn%2Fwp-content%2Fuploads%2F2018%2F03%2FJava_meetup2-4.pdf" viewer_width=100% viewer_height=1360px fullscreen=true download=true print=true]
+<embed src="http://greenteajug.github.io/images/Java_meetup2-4.pdf" type="application/pdf" height="720" width="100%" />

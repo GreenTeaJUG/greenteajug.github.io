@@ -5,10 +5,6 @@ date: 2019-11-18
 tags: ["2019","活动","深圳"]
 ---
 
-<!-- wp:image -->
-<figure class="wp-block-image">![深圳.png](30713604506943343.jpeg)<figcaption>报名： [https://www.huodongxing.com/event/6517930330211](https://www.huodongxing.com/event/6517930330211) </figcaption></figure>
-<!-- /wp:image -->
+报名： [https://www.huodongxing.com/event/6517930330211](https://www.huodongxing.com/event/6517930330211)
 
-<!-- wp:paragraph -->
-
-<!-- /wp:paragraph -->
+![_config.yml](http://cdn.huodongxing.com/file/ue/20180823/11C50A01B5A4EF343F7BA234079D7B93AC/30713604506943343.jpeg)

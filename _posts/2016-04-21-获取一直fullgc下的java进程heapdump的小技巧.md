@@ -2,7 +2,7 @@
 layout: post
 title: 获取一直FullGC下的java进程HeapDump的小技巧
 date: 2016-04-21
-tags: ["@JianhaoMo","@善良的右席","文章"]
+tags: ["2016","@JianhaoMo","@善良的右席","article"]
 ---
 
 作者：[@善良的右席](http://weibo.com/u/2059648327)

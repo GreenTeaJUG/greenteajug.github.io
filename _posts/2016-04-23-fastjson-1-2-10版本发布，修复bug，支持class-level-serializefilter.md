@@ -2,7 +2,7 @@
 layout: post
 title: fastjson 1.2.10版本发布，修复Bug，支持Class Level SerializeFilter
 date: 2016-04-23
-tags: ["@温高铁","文章"]
+tags: ["2016","@温高铁","article"]
 ---
 
 作者：温绍锦（[@温高铁](http://weibo.com/wengaotie)）阿里巴巴资深技术专家

@@ -2,7 +2,7 @@
 layout: post
 title: 推荐一个终端获取jmx信息的小工具——jmxterm
 date: 2016-06-04
-tags: ["@JianhaoMo","文章"]
+tags: ["2016","@JianhaoMo","article"]
 ---
 
 作者[@JianhaoMo](http://weibo.com/halmo)

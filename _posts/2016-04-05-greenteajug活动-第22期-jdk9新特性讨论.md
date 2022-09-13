@@ -13,7 +13,7 @@ tags: ["2016","@JianhaoMo","活动","网络"]
 
 > The attachment is the JDK9 new features introduction, could you help to forward it to China Java User Groups? JDK9 first introduces Jigsaw feature, it causes big changes in JDK structure and APIs, we would contact China Java User Group to collect their questions. Could you help to copy me when you send this presentation to the user groups?
 
-￼￼￼￼￼￼> ￼￼￼￼￼￼This Is Not A Drill
+> ￼￼￼￼￼￼This Is Not A Drill
 > Prepare For JDK 9
 > 
 > Rory O'Donnell

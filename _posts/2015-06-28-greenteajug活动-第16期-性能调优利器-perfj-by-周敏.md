@@ -12,7 +12,7 @@ tags: ["2015","@MinZhou","以亭","活动","网络"]
 主题：Perfj
 讲师：周敏（[@MinZhou](http://weibo.com/u/1309690680)）
 
-[![周敏](周敏-300x200.jpg)](http://greenteajug.cn/wp-content/uploads/2015/06/周敏.jpg)
+![_config.yml](http://greenteajug.github.io/images/周敏.jpg)
 
 周敏, 暨南大学计算机硕士毕业学位. 主研方向: 大数据、分布式系统. 先后在阿里巴巴担任技术专家, 美国LinkedIn公司Staff Engineer , 现任美国Tango公司Senior Staff Engineer, 带领大数据基础研发团队. 多个Apache开源项目贡献者及提交者. 曾帮助Apache Spark团队获100TB数据排序世界记录. 现定居美国旧金山湾区.
 

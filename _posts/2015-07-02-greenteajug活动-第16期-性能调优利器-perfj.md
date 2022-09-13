@@ -2,7 +2,7 @@
 layout: post
 title: 性能调优利器——PerfJ
 date: 2015-07-02
-tags: ["@MinZhou","以亭","文章"]
+tags: ["2015","@MinZhou","以亭","article"]
 ---
 
 **讲师：周敏（[@MinZhou](http://weibo.com/u/1309690680)）**
@@ -78,7 +78,7 @@ export PATH=$JAVA_HOME/bin:$PATH
 
 [http://blog.minzhou.info/perfj/perfj.svg](http://blog.minzhou.info/perfj/perfj.svg)
 
-[![1](1-300x221.png)](http://greenteajug.cn/wp-content/uploads/2015/07/1.png)
+![_config.yml](http://greenteajug.github.io/images/1.png)
 
 图中，绿色是Java代码，黄色是JVM代码，红色是Kernel代码，宽度表示占用CPU时间。
 
@@ -90,7 +90,7 @@ cd perfj-1.0/
 
 运行：bin/perfj list， 查看所支持的事件。运行截图：
 
-[![2](2-211x300.png)](http://greenteajug.cn/wp-content/uploads/2015/07/2.png)
+![_config.yml](http://greenteajug.github.io/images/2.png)
 
 ## 5. Context Switch
 
@@ -110,11 +110,11 @@ cd perfj-1.0/
 
 得到结果如下：
 
-[![3](3-300x144.jpg)](http://greenteajug.cn/wp-content/uploads/2015/07/3.jpg)
+![_config.yml](http://greenteajug.github.io/images/3.jpg)
 
 如果出现这种无法打开map文件错误：
 
-[![4](4-300x244.jpg)](http://greenteajug.cn/wp-content/uploads/2015/07/4.jpg)
+![_config.yml](http://greenteajug.github.io/images/4.jpg)
 
 可能是perfj版本问题。下载这个：[http://blog.minzhou.info/perfj/perfj-1.0.tgz](http://blog.minzhou.info/perfj/perfj-1.0.tgz)（打不开？用[http://share.weiyun.com/ae0cb80416b3ca3d97fc1877aa1bde4a](http://share.weiyun.com/ae0cb80416b3ca3d97fc1877aa1bde4a)）就好了。
 
@@ -136,7 +136,7 @@ cd perfj-1.0/
 
 cache hit比cache miss快几十倍。
 
-[![5](5-300x237.jpg)](http://greenteajug.cn/wp-content/uploads/2015/07/5.jpg)
+![_config.yml](http://greenteajug.github.io/images/5.jpg)
 
 通过上面看到，94%的cache miss是cachemiss这个函数造成的。
 
@@ -170,7 +170,7 @@ cache hit比cache miss快几十倍。
 
 报告： bin/PerfJ report --stdio --show-total-period -i ~/perf.data
 
-[![6](6-300x279.jpg)](http://greenteajug.cn/wp-content/uploads/2015/07/6.jpg)
+![_config.yml](http://greenteajug.github.io/images/6.jpg)
 
 可以看到截屏的这些stack虽然不占CPU，但在off cpu的时候一直歇着，很有可能拖慢程序的执行。
 
@@ -190,7 +190,7 @@ bin/perfj record -e block:block_rq_issue -F 99 -g -p `pgrep -f DbBenchmark`
 
 用这个看物理设备的块请求是谁操作的，是哪些java代码调用的，然后我可以看到这个stack：
 
-[![7](7-300x231.jpg)](http://greenteajug.cn/wp-content/uploads/2015/07/7.jpg)
+![_config.yml](http://greenteajug.github.io/images/7.jpg)
 
 知道了java代码位置，可以用ftrace看这个io request的io size，用了多少时间，是random io还是seq io。
 
