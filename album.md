@@ -17,7 +17,7 @@ permalink: /album/
 <div class="posts">
     {% for video in site.static_files %}
         {% if video.path contains 'images/video' %}
-            <iframe src="{{ site.baseurl }}{{ video.path }}" frameborder="0" width="32%" ></iframe>
+            <iframe src="{{ site.baseurl }}{{ video.path }}" frameborder="0" width="32%" sandbox></iframe>
         {% endif %}
     {% endfor %}
 </div>
