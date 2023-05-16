@@ -4,11 +4,9 @@ title: 2023 GreenTea JUG Meetup 上海站
 date: 2023-05-11
 tags: ["2023","article","活动"]
 ---
-GreenTea JUG 2023-5-13活动回顾
+# GreenTea JUG 2023-5-13活动回顾
 
 2023-05-16 施懿民 GreenTeaJUG
-
-![_config.yml](https://mmbiz.qpic.cn/mmbiz_jpg/hpnYWibPmDdb23Ug4tBQ0NhJTx0LGqWbwCSgAzXJEibLrMghGXtn6BfwQ1icy8addhq7C5yFTxoPDW56kQ86gVibgQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 疫情褪去，春暖花开，Green Tea JUG的线下活动重启了，来自阿里、Azul、华为、字节的技术大咖们在这美好的季节为我们带来了JVM领域的前沿动态，干货满满！
 
@@ -17,10 +15,6 @@ GreenTea JUG 2023-5-13活动回顾
 感谢西门子创新中心提供的场地
 感谢微软Reactor提供的直播设备和支持
 感谢知平和见田创服小伙伴们的现场组织
-
-![_config.yml](https://mmbiz.qpic.cn/mmbiz_jpg/hpnYWibPmDdb23Ug4tBQ0NhJTx0LGqWbw8Qbj0lusH8nXWHgOCMQIoTafdGzJRQ15DuV7ibMFa0GRX7qGia5ChjAQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
-![_config.yml](https://mmbiz.qpic.cn/mmbiz_png/hpnYWibPmDdb23Ug4tBQ0NhJTx0LGqWbwcJeAUYZkQteZd9X27kVBeSwzq1VEicG1eOLEkBVImoZiciaRCkTOkaTVA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## OpenJDK RISK-V Port概述
 
@@ -54,9 +48,6 @@ GreenTea JUG 2023-5-13活动回顾
 
 ----
 
-
-![_config.yml](https://mmbiz.qpic.cn/mmbiz_png/hpnYWibPmDdb23Ug4tBQ0NhJTx0LGqWbwuh87svpQC8qoXnQBQsbuWmGX5ibTzK6dmgCqktmcHqpcATa3EylB8bQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
 ## Cloud Native Compiler概述
 
 Azul - Gavin Yu
@@ -81,8 +72,6 @@ Azul - Gavin Yu
 
 ----
 
-![_config.yml](https://mmbiz.qpic.cn/mmbiz_png/hpnYWibPmDdb23Ug4tBQ0NhJTx0LGqWbwwN7HcQzyeT3rbaOcXtEIfFibfAk3ZeT1BtvicYhGl7tbUOUIsUPhLINQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
 ## CRaC简介
 
 Azul - Gerrit
@@ -104,8 +93,6 @@ Azul - Gerrit
 
 ----
 
-![_config.yml](https://mmbiz.qpic.cn/mmbiz_png/hpnYWibPmDdb23Ug4tBQ0NhJTx0LGqWbw8LUMFnNcnCvflxicaeFSHuzmgxW34KOQhyWia9Q0LGtSbkpo118Jy4hQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
 ## Java机密计算
 
 阿里 - 林子熠
@@ -116,6 +103,7 @@ Java机密计算的动机：
 
 机密计算通过硬件隔离加密的方式保护应用中的安全敏感数据和程序算法在运行时的安全性，在多方计算，同态加密，区块链，联邦计算等领域有重要应用。但是机密计算并不支持Java程序，Teaclave Java SDK开发实现了支持Java机密计算的框架和SDK，已在Apache开源，与上海交通大学合作的论文也获得了软工国际顶会ICSE的杰出论文奖。
 
+----
 
 报名： [[https://www.huodongxing.com/event/6521652048700](https://www.huodongxing.com/event/3700655142300)]
 
