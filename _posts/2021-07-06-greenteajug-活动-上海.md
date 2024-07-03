@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2021 GreenTea JUG Meetup 上海站 精彩回顾
+title: 2021 GreenTeaJUG 活动 上海 精彩回顾
 date: 2021-07-06
 tags: ["2021","article","活动","活动ppt"]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024 GreenTea JUG Meetup 杭州
+title: 2024 GreenTeaJUG 活动 杭州
 date: 2024-07-02
 tags: ["2024","article","活动","杭州"]
 ---

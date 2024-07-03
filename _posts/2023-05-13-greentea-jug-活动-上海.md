@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023 GreenTea JUG Meetup 上海站
+title: 2023 GreenTeaJUG 活动 上海
 date: 2023-05-11
 tags: ["2023","article","活动"]
 ---
