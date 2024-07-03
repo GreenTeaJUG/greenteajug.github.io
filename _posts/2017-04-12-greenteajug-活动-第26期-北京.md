@@ -71,10 +71,10 @@ Java使用年限：xx年
 说明：因为受场地限制，本次活动可以容纳25人左右，先报名并收到确认邮件即为报名成功，谢谢！
 
 一 Java 9新特性
-<embed src="http://greenteajug.github.io/images/JDK_9_New_Features_JUG20170423a.pdf" type="application/pdf" height="720" width="100%" />
+[下载](http://greenteajug.github.io/images/JDK_9_New_Features_JUG20170423a.pdf)
 
 二 JavaEE MicroProfile
-<embed src="http://greenteajug.github.io/images/MicroProfile.pdf" type="application/pdf" height="720" width="100%" />
+[下载](http://greenteajug.github.io/images/MicroProfile.pdf)
 
 三 HTTP/2和Servlet4技术分析
-<embed src="http://greenteajug.github.io/images/http2_servlet4_jug.pdf" type="application/pdf" height="720" width="100%" />
+[下载](http://greenteajug.github.io/images/http2_servlet4_jug.pdf)

@@ -9,8 +9,8 @@ tags: ["2017","Simon Ritter","article"]
 
 PartI:
 
-<embed src="http://greenteajug.github.io/images/jdk9-simon-1-30.pdf" type="application/pdf" height="720" width="100%" />
+[下载](http://greenteajug.github.io/images/jdk9-simon-1-30.pdf)
 
 PartII:
 
-<embed src="http://greenteajug.github.io/images/jdk9-simon-31-59.pdf" type="application/pdf" height="720" width="100%" />
+[下载](http://greenteajug.github.io/images/jdk9-simon-31-59.pdf)

@@ -7,4 +7,4 @@ tags: ["2015","@Jonathan陆","article","活动ppt"]
 
 作者：陆传胜（[@Jonathan陆](http://weibo.com/u/2280810557)）
 
-<embed src="http://greenteajug.github.io/images/SH-JUG-java-debugging-from-desktop-to-cloud.pdf" type="application/pdf" height="720" width="100%" />
+[下载](http://greenteajug.github.io/images/SH-JUG-java-debugging-from-desktop-to-cloud.pdf)

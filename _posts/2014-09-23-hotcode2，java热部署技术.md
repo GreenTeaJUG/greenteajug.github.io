@@ -7,4 +7,4 @@ tags: ["2014","千臂","article","活动ppt"]
 
 作者：千臂
 
-<embed src="http://greenteajug.github.io/images/HotCode2原理与使用.pdf" type="application/pdf" height="720" width="100%" />
+[下载](http://greenteajug.github.io/images/HotCode2原理与使用.pdf)

@@ -7,4 +7,4 @@ tags: ["2013","article","活动ppt","陈成威"]
 
 作者：Shing Wai (陈成威)
 
-<embed src="http://greenteajug.github.io/images/ORACLE_陈成威_Servlet_3_1.pdf" type="application/pdf" height="720" width="100%" />
+[下载](http://greenteajug.github.io/images/ORACLE_陈成威_Servlet_3_1.pdf)

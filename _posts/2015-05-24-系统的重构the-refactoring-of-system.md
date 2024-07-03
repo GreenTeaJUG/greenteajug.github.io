@@ -7,7 +7,7 @@ tags: ["2015","吴璞渊","article","活动ppt"]
 
 作者：吴璞渊
 
-<embed src="http://greenteajug.github.io/images/代码的重构.pdf" type="application/pdf" height="720" width="100%" />
+[下载](http://greenteajug.github.io/images/代码的重构.pdf)
 
 Q&A
 

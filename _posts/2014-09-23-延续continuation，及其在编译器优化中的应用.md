@@ -7,4 +7,4 @@ tags: ["2014","@善良的右席","article","活动ppt"]
 
 作者：[@善良的右席](http://weibo.com/u/2059648327)
 
-<embed src="http://greenteajug.github.io/images/GreenTeaJUG-youxi-2014-9-25.pdf" type="application/pdf" height="720" width="100%" />
+[下载](http://greenteajug.github.io/images/GreenTeaJUG-youxi-2014-9-25.pdf)

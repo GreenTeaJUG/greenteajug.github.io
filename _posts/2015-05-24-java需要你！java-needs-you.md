@@ -7,4 +7,4 @@ tags: ["2015","Ben Evans","article","活动ppt"]
 
 作者：Ben Evans
 
-<embed src="http://greenteajug.github.io/images/JavaNeedsYou.pdf" type="application/pdf" height="720" width="100%" />
+[下载](http://greenteajug.github.io/images/JavaNeedsYou.pdf)
