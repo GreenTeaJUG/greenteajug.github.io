@@ -190,7 +190,7 @@ bin/perfj record -e block:block_rq_issue -F 99 -g -p `pgrep -f DbBenchmark`
 
 用这个看物理设备的块请求是谁操作的，是哪些java代码调用的，然后我可以看到这个stack：
 
-![_config.yml](http://greenteajug.github.io/images/7.jpg)
+![_config.yml](http://greenteajug.github.io/images/7.png)
 
 知道了java代码位置，可以用ftrace看这个io request的io size，用了多少时间，是random io还是seq io。
 
