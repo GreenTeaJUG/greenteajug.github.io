@@ -110,11 +110,11 @@ cd perfj-1.0/
 
 得到结果如下：
 
-![_config.yml](http://greenteajug.github.io/images/3.jpg)
+![_config.yml](http://greenteajug.github.io/images/3.png)
 
 如果出现这种无法打开map文件错误：
 
-![_config.yml](http://greenteajug.github.io/images/4.jpg)
+![_config.yml](http://greenteajug.github.io/images/4.png)
 
 可能是perfj版本问题。下载这个：[http://blog.minzhou.info/perfj/perfj-1.0.tgz](http://blog.minzhou.info/perfj/perfj-1.0.tgz)（打不开？用[http://share.weiyun.com/ae0cb80416b3ca3d97fc1877aa1bde4a](http://share.weiyun.com/ae0cb80416b3ca3d97fc1877aa1bde4a)）就好了。
 
@@ -136,7 +136,7 @@ cd perfj-1.0/
 
 cache hit比cache miss快几十倍。
 
-![_config.yml](http://greenteajug.github.io/images/5.jpg)
+![_config.yml](http://greenteajug.github.io/images/5.png)
 
 通过上面看到，94%的cache miss是cachemiss这个函数造成的。
 
@@ -170,7 +170,7 @@ cache hit比cache miss快几十倍。
 
 报告： bin/PerfJ report --stdio --show-total-period -i ~/perf.data
 
-![_config.yml](http://greenteajug.github.io/images/6.jpg)
+![_config.yml](http://greenteajug.github.io/images/6.png)
 
 可以看到截屏的这些stack虽然不占CPU，但在off cpu的时候一直歇着，很有可能拖慢程序的执行。
 
